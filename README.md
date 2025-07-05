@@ -45,14 +45,6 @@ The Power BI dashboard includes:
 - **Service Usage:** Analysis of internet types and services.
 - **Churn Prediction Page:** Visualization of predicted churn data.
 
-## Repository Structure
-
-- `data/`: Contains the source data files.
-- `sql/`: SQL scripts for the ETL process.
-- `powerbi/`: Power BI report files.
-- `notebooks/`: Jupyter notebooks for machine learning model training and evaluation.
-- `results/`: Predicted churn data and analysis results.
-
 ## Getting Started
 
 1. Clone the repository.
